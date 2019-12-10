@@ -1,0 +1,10 @@
+﻿boss系统下的api、service模块抽离出来单独的模块。比如zb-dubbo-service
+
+
+任务列表，展开后，如果浏览器窗口小的情况下，不会出现滚动条
+
+
+左侧菜单图标颜色
+
+
+fender-web使用controller访问，不是jsp
